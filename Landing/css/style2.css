@@ -197,4 +197,28 @@ figure{
 
   }
 
+footer{
+    background-color: blueviolet;
+display:flex;
+justify-content: space-around;
 
+}
+.text-fff{
+    color: white;
+}
+
+
+.mytag:hover{
+    color: yellowgreen;
+
+}
+
+.footer-col a{
+    color: yellow;
+    text-decoration: none;
+}
+
+
+.footer-col a:hover{
+    color: blue;
+}
